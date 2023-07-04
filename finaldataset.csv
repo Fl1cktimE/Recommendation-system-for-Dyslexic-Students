@@ -1,0 +1,28 @@
+noOfAlphabetes,difficulties,description,complexity,chapter
+3,easy,"uyir yeluthukal easy letters and lies at level1 and consist of letter for 3 times a,aa,e",level1,ch1 - Basic First 3 letters 
+3,easy,"uyir yeluthukal easy letters and lies at level2 and consist of letter for 3 times ee,o,oo",level2,ch2 - Basic next three letters
+3,easy,"uyir yeluthukal easy letters and smallwords lies at level3 and consist of letter for 3 times as,ad,af",level3,ch3 - Words with 3 letters
+6,easy,"uyir yeluthukal easy letters and lies at level1 and consist of letter for 6 times a,aa,e,ee,o,oo",level1,ch4 - Basic First 6 Letters
+6,easy,"uyir yeluthukal easy letters and lies at level2 and consist of letter for 6 times ae,aee,aiy,yo,yoo,avoi",level2,ch5 - Basic 6 letters
+6,easy,"uyir yeluthukal easy letters and smallwords lies at level3 and consist of letter for 6 times as,ad,af,ag,ah,aj",level3,ch6 - words with 6 letters
+10,easy,"uyir yeluthukal easy letters and lies at level1 and consist of letter for 10 times a,aa,e,ee,o,oo,ae,aee,aiy,yo",level1,ch7 - Basic 10 letters
+10,easy,"uyir yeluthukal easy letters and lies at level2 and consist of letter for 10 times a,aa,e,ee,o,oo,ae,aee,aiy,yo fast",level2,ch8 - Advance Basic 10 letter
+10,easy ,"uyir yeluthukal easy letters and smallwords lies at level3 and consist of letter for 10 times as,ad,af,ag,ah,aj,ak,al,ax,ac",level3,ch9 - Small words with basic 10 letter
+3,medium ,"uyir yeluthukal medium letters and lies at level1 and consist of letter for 3 times a,e,aa jumple",level1,ch10 - Basic letters with jumple
+3,medium ,"uyir yeluthukal medium letters and lies at level2 and consist of letter for 3 times o,oo,ee jumple",level2,ch11 - Basic jumple letter part2
+3,medium ,"uyir yeluthukal medium letters and words lies at level3 and consist of letter for 3 times aq,aw,ae",level3,ch12 - Words with 3 letters
+6,medium ,"uyir yeluthukal medium letters and lies at level1 and consist of letter for 6 times o,aa,ee,a,e,oo jumple",level1,ch13 - Jumple 6 letters
+6,medium ,"uyir yeluthukal medium letters and lies at level2 and consist of letter for 6 times ae,aee,aiy,yo,yoo,avoi jumple",level2,ch14 - Jumple 6 letters part2
+6,medium ,"uyir yeluthukal medium letters and words lies at level3 and consist of letter for 6 times aq,aw,ae,arr,att,ayy",level3,ch15 - Words formed by 6 letters
+10,medium ,"uyir yeluthukal medium letters and lies at level1 and consist of letter for 10 times a,aa,e,ee,o,oo,ae,aee,aiy,yo jumple",level1,ch16 - Jumple 10 letters (fast)
+10,medium ,"uyir yeluthukal medium letters and lies at level2 and consist of letter for 10 times a,aa,e,ee,o,oo,ae,aee,aiy,yo fast and jumple",level2,ch17 - Jumple 10 letters (fast) part2
+10,medium ,"uyir yeluthukal medium letters and words lies at level3 and consist of letter for 10 times aq,aw,ae,arr,att,ayy,auu,aii,aoo,app",level3,ch18 - real words part1
+3,hard,uyir yeluthukal hard letters and lies at level1 and consist of letter for 3 times creative and jumple and fast timesdiffer3,level1,ch19 - creative letter part1
+3,hard,uyir yeluthukal hard letters and lies at level2 and consist of letter for 3 times creative and jumple and reallyfast and unique,level2,"ch20 - creative, letter part2"
+3,hard,"uyir yeluthukal hard letters and largewords and lies at level3 and consist of letter for 3 times apil,arange,aniyon",level3,ch21 - real word part2
+6,hard,uyir yeluthukal hard letters and lies at level1 and consist of letter for 6 times creative and jumple and fast timesdiffer6,level1,ch22 - creative letter part3
+6,hard,uyir yeluthukal hard letters and lies at level2 and consist of letter for 6 times creative and jumple and reallyfast and unique,level2,ch23 - creative letter part4
+6,hard,"uyir yeluthukal hard letters and largewords and lies at level3 and consist of letter for 6 times apil,arange,aniyon,apper,asel,aws",level3,ch24 - real word part3
+10,hard,uyir yeluthukal hard letters and lies at level1 and consist of letter for 10 times creative and jumple and fast timesdiffer10,level1,ch25 - Advance letter part1
+10,hard,uyir yeluthukal hard letters and lies at level2 and consist of letter for 10 times creative and jumple and reallyfast and unique,level2,ch26 - Advance letter part2
+10,hard,"uyir yeluthukal hard letters and largewords lies at level3 and consist of letter for 10 times apil,arange,aniyon,apper,asel,aws,awe,aer,atr,ayu",level3,ch27 - real word part4
